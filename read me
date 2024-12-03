@@ -1,0 +1,7 @@
+echo "# eltakamul17" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M db
+git remote add origin https://github.com/eltakamol/eltakamul17.git
+git push -u origin db
